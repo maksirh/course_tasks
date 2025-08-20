@@ -9,7 +9,3 @@ def check_pi_triangle(array_sides):
 print(check_pi_triangle([5, 3, 4]))
 print(check_pi_triangle([6, 8, 10]))
 print(check_pi_triangle([100, 3, 65]))
-
-
-for i in range(4):
-    print(i)
